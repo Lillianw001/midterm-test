@@ -1,0 +1,20 @@
+
+        [
+            {
+                "Gender": "Female",
+                "Name": "Emma Parker",
+                "Address": "890 Birch St"
+            },
+
+            {
+                "Gender": "Male",
+                "Name": "Ethan Thompson",
+                "Address": "123 Green St"
+            },
+
+            {
+                "Gender": "Female",
+                "Name": "Isabella Nelson",
+                "Address": "567 Pinehurst Dr"
+            }
+        ]

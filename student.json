@@ -1,0 +1,20 @@
+
+        [
+            {
+                "Gender": "Male",
+                "Name": "Alexander Sullivan",
+                "Address": "890 Pine St"
+            },
+
+            {
+                "Gender": "Male",
+                "Name": "Bruce Mitchell",
+                "Address": "901 Cedar Rd"
+            },
+
+            {
+                "Gender": "Male",
+                "Name": "Caleb Johnson",
+                "Address": "789 Maple Ave"
+            }
+        ]

@@ -1,0 +1,111 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    
+}
+
+
+body {
+    margin: 10px;
+    padding: 10px;
+}
+
+
+
+#userTypeSelection select{
+
+    margin: 10px;
+    padding: 5px;
+    border: solid 2px black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    height: auto;
+    font-size: medium;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+   
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+
+
+#addUserButton {
+    margin: 15px;
+    padding: 10px;
+    border: solid 1px #0a6efa;
+    border-radius: 10px;
+    background:#0a6efa;
+    color: whitesmoke;
+}
+
+#addButton:active {
+background-color: yellow;
+color: #0a6efa;
+}
+
+#searchInput {
+    margin: 5px;
+    padding: 10px;
+    border: solid 1px lightgray;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.addUser {
+  margin: 5px;
+  padding: 20px;
+  border: solid 2px lightgray;
+  border-radius: 5px;
+  color: black;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+}
+
+#genderInput, #nameInput, #addressInput, #submitButton, #cancelButton {
+  border: solid 1px lightgrey;
+  border-radius: 5px;
+  padding: 10px;  
+ 
+}
+
+#submitButton, #cancelButton {
+  border: solid 1px lightgrey;
+  border-radius: 5px;
+  padding: 10px; 
+  margin: 10px 50px;
+ 
+}
+
+
+.inputContainer {
+  display: flex;
+}
+
+.inputContainer > * {
+  margin-right: 10px;
+}
+
+.buttonContainer {
+  margin-top: 10px;
+}
+
+
