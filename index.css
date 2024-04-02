@@ -80,14 +80,14 @@ color: #0a6efa;
   flex-direction: column;
 }
 
-#genderInput, #nameInput, #addressInput, #submitButton, #cancelButton {
+#genderInput, #nameInput, #addressInput, #submitButton, #resetButton {
   border: solid 1px lightgrey;
   border-radius: 5px;
   padding: 10px;  
  
 }
 
-#submitButton, #cancelButton {
+#submitButton, #resetButton {
   border: solid 1px lightgrey;
   border-radius: 5px;
   padding: 10px; 

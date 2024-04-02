@@ -1,20 +1,207 @@
-
-        [
-            {
-                "Gender": "Female",
-                "Name": "Emma Parker",
-                "Address": "890 Birch St"
-            },
-
-            {
-                "Gender": "Male",
-                "Name": "Ethan Thompson",
-                "Address": "123 Green St"
-            },
-
-            {
-                "Gender": "Female",
-                "Name": "Isabella Nelson",
-                "Address": "567 Pinehurst Dr"
-            }
-        ]
+[
+  {
+    "Gender": "Female",
+    "Name": "Emma Parker",
+    "Address": "890 Birch St"
+  },
+  {
+    "Gender": "Male",
+    "Name": "Ethan Thompson",
+    "Address": "123 Green St"
+  },
+  {
+    "Gender": "Female",
+    "Name": "Isabella Nelson",
+    "Address": "567 Pinehurst Dr"
+  },
+  {
+    "Gender": "Male",
+    "Name": "john smith",
+    "Address": "111 mont st"
+  },
+  {
+    "Gender": "Male",
+    "Name": "john smith",
+    "Address": "111 mont st"
+  },
+  {
+    "Gender": "Male",
+    "Name": "john smith",
+    "Address": "111 mont st"
+  },
+  {
+    "Gender": "Male",
+    "Name": "",
+    "Address": ""
+  },
+  {
+    "Gender": "Male",
+    "Name": "",
+    "Address": ""
+  },
+  {
+    "Gender": "Male",
+    "Name": "john",
+    "Address": "llll smmm"
+  },
+  {
+    "Gender": "Male",
+    "Name": "john",
+    "Address": "llll smmm"
+  },
+  {
+    "Gender": "Male",
+    "Name": "dddd",
+    "Address": ""
+  },
+  {
+    "Gender": "Male",
+    "Name": "dddd",
+    "Address": "ddd"
+  },
+  {
+    "Gender": "Male",
+    "Name": "dddd",
+    "Address": "ddd"
+  },
+  {
+    "Gender": "Male",
+    "Name": "dddd",
+    "Address": "ddd"
+  },
+  {
+    "Gender": "Male",
+    "Name": "",
+    "Address": ""
+  },
+  {
+    "Gender": "Male",
+    "Name": "",
+    "Address": ""
+  },
+  {
+    "Gender": "Male",
+    "Name": "",
+    "Address": ""
+  },
+  {
+    "Gender": "Male",
+    "Name": "",
+    "Address": ""
+  },
+  {
+    "Gender": "Male",
+    "Name": "",
+    "Address": ""
+  },
+  {
+    "Gender": "Female",
+    "Name": "ggg",
+    "Address": "dddd"
+  },
+  {
+    "Gender": "Female",
+    "Name": "ggg",
+    "Address": "dddd"
+  },
+  {
+    "Gender": "Female",
+    "Name": "ggg",
+    "Address": "dddd"
+  },
+  {
+    "Gender": "Female",
+    "Name": "ggg",
+    "Address": "dddd"
+  },
+  {
+    "Gender": "Female",
+    "Name": "ggg",
+    "Address": "dddd"
+  },
+  {
+    "Gender": "Female",
+    "Name": "ggg",
+    "Address": "dddd"
+  },
+  {
+    "Gender": "Female",
+    "Name": "ggg",
+    "Address": "dddd"
+  },
+  {
+    "Gender": "Female",
+    "Name": "ggg",
+    "Address": "dddd"
+  },
+  {
+    "Gender": "Male",
+    "Name": "john",
+    "Address": "111 mont st"
+  },
+  {
+    "Gender": "Male",
+    "Name": "jjjjjj",
+    "Address": "ooooo"
+  },
+  {
+    "Gender": "Male",
+    "Name": "john",
+    "Address": "111 mont St"
+  },
+  {
+    "Gender": "Male",
+    "Name": "john",
+    "Address": "111 mont St"
+  },
+  {
+    "Gender": "Female",
+    "Name": "lilly",
+    "Address": "111 mont str"
+  },
+  {
+    "Gender": "Male",
+    "Name": "nina",
+    "Address": "111 mont st"
+  },
+  {
+    "Gender": "Male",
+    "Name": "nina",
+    "Address": "111 mont st"
+  },
+  {
+    "Gender": "Male",
+    "Name": "nina",
+    "Address": "111 mont st"
+  },
+  {
+    "Gender": "Male",
+    "Name": "nina",
+    "Address": "111 mont st"
+  },
+  {
+    "Gender": "Male",
+    "Name": "tom",
+    "Address": "11 mont2 St"
+  },
+  {
+    "Gender": "Male",
+    "Name": "tom",
+    "Address": "11 mont2 St"
+  },
+  {
+    "Gender": "Male",
+    "Name": "student",
+    "Address": "11 mont2 St"
+  },
+  {
+    "Gender": "Female",
+    "Name": "john",
+    "Address": "222"
+  },
+  {
+    "Gender": "Male",
+    "Name": "tea",
+    "Address": "teach11"
+  }
+]

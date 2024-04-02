@@ -6,7 +6,7 @@ const app = express();
 app.use(express.static(__dirname));
 app.use(bodyParser.json());
 
-
+// GET路由处理器，用于获取学生信息
 app.get('/student.json', (req, res) => {
     fs.readFile('student.json', 'utf8', (err, data) => {
         if (err) {
@@ -18,7 +18,7 @@ app.get('/student.json', (req, res) => {
     });
 });
 
-
+// GET路由处理器，用于获取老师信息
 app.get('/teacher.json', (req, res) => {
     fs.readFile('teacher.json', 'utf8', (err, data) => {
         if (err) {
@@ -30,7 +30,7 @@ app.get('/teacher.json', (req, res) => {
     });
 });
 
-
+// POST路由处理器，用于保存新用户信息
 app.post('/saveUser', (req, res) => {
     const postData = req.body;
     const jsonFile = (postData.type === 'student' )? 'student.json' : 'teacher.json';
@@ -56,10 +56,8 @@ app.post('/saveUser', (req, res) => {
     });
 });
 
-
+// 启动服务器，监听端口
 const port = 3000;
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
 });
-
-
